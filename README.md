@@ -19,4 +19,4 @@ Durante o curso, aprendi a:
 - Compartilhar relatórios via Power BI Service.
 
 ## 📝 Certificado
-[Certificado Curso Microsoft Power BI Para Business Intelligence e Data Science](./cer)
+![Certificado Curso Microsoft Power BI Para Business Intelligence e Data Science](./certificate-microsoft-power-bi-para-business-intelligence-e-data-science-6462fe1b2bb04988150abc99.pdf)
