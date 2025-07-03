@@ -17,3 +17,6 @@ Durante o curso, aprendi a:
 - Criar **visualizações dinâmicas e impactantes** com gráficos, mapas e segmentações;
 - Utilizar **filtros**, **slicers**, **medidas** e **colunas calculadas** com DAX (Data Analysis Expressions);
 - Compartilhar relatórios via Power BI Service.
+
+## 📝 Certificado
+[Certificado Curso Microsoft Power BI Para Business Intelligence e Data Science](./cer)
