@@ -20,4 +20,4 @@ Durante o curso, aprendi a:
 
 ## 📝 Certificado
 
-![Certificado Curso Microsoft Power BI Para Business Intelligence e Data Science](./certificate-microsoft-power-bi-para-business-intelligence-e-data-science-6462fe1b2bb04988150abc99_page-0001(1).jpg)
+![Certificado Curso Microsoft Power BI Para Business Intelligence e Data Science](Microsoft-Power-BI-Para-Business-Intelligence-e-Data-Science/certificado.jpg)
